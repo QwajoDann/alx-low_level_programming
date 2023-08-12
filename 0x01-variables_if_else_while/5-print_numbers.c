@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'print bumbers of base 10'
+ * Description: 'print numbers of base 10'
  * Return: Always 0
  */
-int manin(void)
+int main(void)
 {
 	int n;
 
