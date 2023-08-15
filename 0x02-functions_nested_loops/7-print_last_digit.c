@@ -5,6 +5,7 @@
  * @n: The number to be treated
  * Return: value of the last digit of number
  */
+
 int print_last_digit(int n)
 
 {
