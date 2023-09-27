@@ -30,14 +30,5 @@ i++;
 current = temp->next;
 temp->next = current->next;
 free(current);
-r
-e
-t
-u
-r
-n
-(
-1
-)
-;
+return(1);
 }
